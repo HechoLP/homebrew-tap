@@ -1,10 +1,10 @@
 cask "codexmeter" do
-  version "1.2.0"
-  sha256 "a8779dbc2b7954a5db64519d77ab1d9673e6640c14da17669c5d110c29684249"
+  version "1.3.0"
+  sha256 "d69b88089c25f836d709a09be34cf161e84e26d560356293f0e43962ace1bba9"
 
   url "https://github.com/HechoLP/CodexMeter/releases/download/v#{version}/CodexMeter-#{version}.zip"
   name "CodexMeter"
-  desc "Local Codex token usage in the menu bar"
+  desc "Local Codex and Claude Code token usage in the menu bar"
   homepage "https://github.com/HechoLP/CodexMeter"
 
   auto_updates true
