@@ -1,6 +1,6 @@
 cask "codexmeter" do
-  version "1.4.5"
-  sha256 "51ab1ad9f079e403e0b4bf94142e1c509f05249b69d819411e4b53084935fb51"
+  version "1.4.6"
+  sha256 "8dfb75a3be60abf1b82f83ff3f520b81631fc531abd4b0e4043682997a898fea"
 
   url "https://github.com/HechoLP/CodexMeter/releases/download/v#{version}/CodexMeter-#{version}.zip"
   name "CodexMeter"
